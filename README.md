@@ -111,7 +111,7 @@ Then open the browser link (usually: http://localhost:8501)
 Run all tests:
 
 ```bash
-python -m pytest -q
+python -m pytest
 ```
 
 
