@@ -24,11 +24,9 @@ It allows users to ask questions from a PDF and get answers using semantic searc
 
 ```
 app.py          # Streamlit UI
-rag_core.py     # core logic (if separated)
 tests/          # unit tests
 requirements.txt
 .env.example
-pytest.ini
 ```
 
 ---
