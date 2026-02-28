@@ -67,7 +67,7 @@ GROQ_API_KEY=your_api_key_here
 
 ### 4. Add PDF file
 
-Place the file in the root directory:
+Place the pdf file in the root directory and rename it as "philippine_history":
 
 ```
 philippine_history.pdf
