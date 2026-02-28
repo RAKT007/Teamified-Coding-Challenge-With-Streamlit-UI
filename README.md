@@ -57,23 +57,10 @@ pip install -r requirements.txt
 
 ### 3. Setup environment variables
 
-Create a `.env` file:
+Create a `.env` file : Add you_groq_api_key here 
 
 ```bash
 GROQ_API_KEY=your_api_key_here
-```
-
-(configs)
-
-```bash
-PDF_PATH=philippine_history.pdf
-GROQ_MODEL=llama-3.3-70b-versatile
-EMBED_MODEL=sentence-transformers/all-MiniLM-L6-v2
-TOP_K=5
-CHUNK_SIZE=1000
-CHUNK_OVERLAP=150
-EMBED_MAX_LENGTH=256
-INDEX_DIR=faiss_store
 ```
 
 ---
