@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ### 3. Setup environment variables
 
-Create a `.env` file : Add you_groq_api_key here 
+ Add you_groq_api_key in .env file : 
 
 ```bash
 GROQ_API_KEY=your_api_key_here
